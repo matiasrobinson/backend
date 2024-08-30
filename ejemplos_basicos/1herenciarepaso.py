@@ -1,3 +1,5 @@
+# HERENCIAS REPRESENTADAS POR SU CLASE PADRE-HIJO
+
 class Animal:
     def hacer_sonido(self):
         raise NotImplementedError("El metodo debe ser sobreescrito por las subclases")
